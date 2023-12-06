@@ -3,11 +3,6 @@
 class Produtos
 {
     // adicionando comentarios!!
-
-    // mais comentariossss
-
-
-    // mais um comentario em
     private $Data;
     private $Resultado;
 
